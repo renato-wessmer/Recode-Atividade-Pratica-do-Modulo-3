@@ -9,7 +9,7 @@ public class Database {
 	private static final String username = "root";
 	
 
-	private static final String password = "19RubI97";
+	private static final String password = "    "; // colocar sua senha entre as aspas
 	
 
     private static final String databaese_url = "jdbc:mysql://localhost:3306/Vayvem";
