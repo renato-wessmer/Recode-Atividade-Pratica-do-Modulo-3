@@ -6,4 +6,5 @@
  *
  */
 module AgênciaDeViagensNysaa {
+	requires java.sql;
 }
