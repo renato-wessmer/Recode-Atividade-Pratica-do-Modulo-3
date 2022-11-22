@@ -36,7 +36,7 @@
  
 ☑️ 3º Caso o nome do seu usuário seja diferente de root, coloque o nome de usuário que cadastrou no  MySQL Workbench 8.0 CE;
  
-☑️ 4º Caso o eclipse retorne a mensagem após a instalação que seu Java Development Kit deve ser superior a versão 11,
+☑️ 4º Caso o Eclipse retorne a mensagem após a instalação que seu Java Development Kit deve ser superior a versão 11,
 instalar as linhas de comando abaixo nos parâmetros de configuração do Eclipse
  
 <p>-vm
