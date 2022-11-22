@@ -1,6 +1,6 @@
 # Recode-Atividade-Pratica-do-Modulo-3
  
-## :computer: Tecnologias Utilizadas
+## :computer: Tecnologias Utilizadas.
  
 * **Back-end:** Java, MySql e Modelagem de dados.
 * **Ferramentas:** Eclipse, MySQL Workbench 8.0 CE e Br Modelo.
