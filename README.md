@@ -26,7 +26,7 @@
  
 ☑️ 6º Mude na class database a senha e o nome do banco de dabos;
  
-☑️ 7º Ro de a aplicação no console e poderá observar a persistência de dados no database.
+☑️ 7º No de a aplicação no console e poderá observar a persistência de dados no database.
  
 ## Importante
  
