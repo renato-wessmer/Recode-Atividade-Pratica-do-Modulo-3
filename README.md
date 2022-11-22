@@ -22,11 +22,11 @@
  
 ☑️ 4º Atualize os Schemas e e veja se foi criado o banco de dados;
  
-☑️ 5º Instale o Eclipse IDE for Java Developers, em seguida instalar através do Build Path o mysql-connector-java-8.0.30 e gson-2.9.1  
+☑️ 5º Instale o Eclipse IDE for Java Developers, em seguida instalar através do Build Path o mysql-connector-java-8.0.30 e gson-2.9.1;  
  
-☑️ 6º Mude na class database a senha e o nome do banco de dabos.
+☑️ 6º Mude na class database a senha e o nome do banco de dabos;
  
-☑️ 7º Ro de a aplicação no console e poderá observar a persistência de dados no database;
+☑️ 7º Ro de a aplicação no console e poderá observar a persistência de dados no database.
  
 ## Importante
  
@@ -36,8 +36,7 @@
  
 ☑️ 3º Caso o nome do seu usuário seja diferente de root, coloque o nome de usuário que cadastrou no  MySQL Workbench 8.0 CE;
  
-☑️ 4º Caso o Eclipse retorne a mensagem após a instalação que seu Java Development Kit deve ser superior a versão 11,
-instalar as linhas de comando abaixo nos parâmetros de configuração do Eclipse
+☑️ 4º Caso o Eclipse retorne a mensagem após a instalação que seu Java Development Kit deve ser superior a versão 11, instalar as linhas de comando abaixo nos parâmetros de configuração do Eclipse.
  
 <p>-vm
 <p>C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
