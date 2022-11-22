@@ -20,11 +20,11 @@
  
 ☑️ 3º Abra o MySQL Workbench e crie uma nova connection, após rode o modelo físico AgenciaDeViagensNyssa;
  
-☑️ 4º Atualize os Schemas e e veja se foi criado o banco de dados;
+☑️ 4º Atualize os Schemas e veja se foi criado o banco de dados;
  
 ☑️ 5º Instale o Eclipse IDE for Java Developers, em seguida instalar através do Build Path o mysql-connector-java-8.0.30 e gson-2.9.1;  
  
-☑️ 6º Mude na class database a senha e o nome do banco de dabos;
+☑️ 6º Mude na class database a senha e o nome do banco de dados;
  
 ☑️ 7º No de a aplicação no console e poderá observar a persistência de dados no database.
  
