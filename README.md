@@ -20,7 +20,7 @@
 
 ☑️ 3º Abra o MySQL Workbench e crie uma nova connection, após rode o modelo físico AgenciaDeViagensNyssa;
 
-☑️ 4º Aatualize os Schemas e e veja se foi criado o banco de dados;
+☑️ 4º Atualize os Schemas e e veja se foi criado o banco de dados;
 
 ☑️ 5º Instale o Eclipse IDE for Java Developers, em seguida instalar através do Build Path o mysql-connector-java-8.0.30 e gson-2.9.1  
 
@@ -32,6 +32,12 @@
 
 ☑️ 1º É preciso instalar o MySQL Workbench 8.0 CE;
 
-☑️ 2º Versão utilizada v5.7.9.
+☑️ 2º Antes de instalar o Eclipse, instalar o Java Development Kit;
 
 ☑️ 3º Caso o nome do seu usuário seja diferente de root, coloque o nome de usuário que cadastrou no  MySQL Workbench 8.0 CE;
+
+☑️ 4º Caso o eclipse retorne a mensagem após a intalçao que seu Java Development Kit deve ser superiror a versão 11,
+instalar as linhas de comando abaixo nos parametros de configuração do ecplipse
+
+-vm
+C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
