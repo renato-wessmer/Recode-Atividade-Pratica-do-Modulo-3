@@ -39,5 +39,5 @@
 ☑️ 4º Caso o eclipse retorne a mensagem após a intalçao que seu Java Development Kit deve ser superiror a versão 11,
 instalar as linhas de comando abaixo nos parametros de configuração do ecplipse
 
--vm
-C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+<p>-vm
+<p>C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
